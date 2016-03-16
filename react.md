@@ -150,3 +150,16 @@ var styles = StyleSheet.create({
 });
 ```
 
+##AsyncStorage
+异步存储
+
+```
+async funName() {
+try {
+await AsyncStorage.setItem(key, value)
+} catch(error) {
+console.log(',,,,,,')
+}
+}
+```
+

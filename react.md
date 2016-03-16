@@ -136,7 +136,9 @@ react-nativator 重新实现了 UINavigationController, 这就是 Navigator，�
 initialRoute 定义了初始屏幕  
 renderScene 指定函数执行屏幕的切转
 
-navigator.push()
+navigator.push() 用于屏幕却换
+
+NavigationBar 用户表现导航条
 
 ##StyleSheet
 界面风格定义组件

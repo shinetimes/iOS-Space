@@ -116,7 +116,35 @@ export default class YourComponent extends React.Component {
 }
 ```
 
+##props
+props 是系统的属性清单
+
+this.props.x  x 通常是预设的属性
+
+y = {this.props.x} 通常用于建立绑定
+
+{this.props.x} 通常是从属性清单内取值
 
 
+##propTypes
+propTypes 用于检查输入的值是否类型匹配（防御性编程）
 
+
+##Navigator
+react-nativator 重新实现了 UINavigationController, 这就是 Navigator，它主要用于屏幕自己的导航
+
+initialRoute 定义了初始屏幕  
+renderScene 指定函数执行屏幕的切转
+
+navigator.push()
+
+##StyleSheet
+界面风格定义组件
+
+```
+var styles = StyleSheet.create({
+
+
+});
+```
 

@@ -163,3 +163,34 @@ console.log(',,,,,,')
 }
 ```
 
+##用户界面
+[react-native-material-design](https://github.com/react-native-material-design/react-native-material-design) Material 风格组件
+
+[react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) 矢量图标
+
+[tcomb-form](https://github.com/gcanti/tcomb-form-native) 表单
+
+[immutable](https://github.com/thewei/react-native-immutable) 集成 immutable.js
+
+##集成
+[webpack-starter](https://github.com/jhabdas/react-native-webpack-starter-kit) 使用 webpack
+
+```
+git clone https://github.com/jhabdas/react-native-webpack-starter-kit.git native-starter && cd $_
+
+npm install
+```
+
+[greenkeeper](https://github.com/greenkeeperio/greenkeeper) 保持 node.js 开发的程序，持续更新到最新版本
+
+
+##应用
+[snowflake](https://github.com/bartonhammond/snowflake)
+
+##运行
+在项目的根目录下运行 npm start, 这样，测试时不会引发连接不到服务器的错误
+
+##资源
+[react-native](https://js.coach/react-native) 资源清单页
+
+

@@ -193,4 +193,13 @@ npm install
 ##资源
 [react-native](https://js.coach/react-native) 资源清单页
 
+[redux](https://github.com/reactjs/redux) Redux 框架
+
+[redux-form](https://github.com/erikras/redux-form) 表单组件
+
+[joi](https://github.com/hapijs/joi) 数据入库前校验
+
+[redux-optimistic-ui](https://github.com/mattkrick/redux-optimistic-ui) reducer 增强
+
+
 
